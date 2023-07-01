@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">wk2tut</string>
-    <string name="description">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</string>
-    <string name="title">Hello World</string>
-    <string name="follow">Follow</string>
-    <string name="dm">Message</string>
-</resources>
